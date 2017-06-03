@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.billboard.com/charts/hot-100" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:c="http://s.opencalais.com/1/pred/" xmlns:sys="http://s.opencalais.com/1/type/sys/" xmlns:lid="http://s.opencalais.com/1/type/lid/" xmlns:cat="http://s.opencalais.com/1/type/cat/" xmlns:resolved="http://s.opencalais.com/1/type/er/" xmlns:cgeo="http://s.opencalais.com/1/type/er/Geo/" xmlns:eventfact="http://s.opencalais.com/1/type/em/r/" xmlns:entity="http://s.opencalais.com/1/type/em/e/" xmlns:cld="http://s.opencalais.com/1/linkeddata/pred/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Billboard - The Hot 100 Chart</title>
+    <link>http://www.billboard.com</link>
+    <description>This week&amp;#39;s most popular songs across all genres, ranked by radio airplay audience impressions as measured by Nielsen Music, sales data as compiled by Nielsen Music and streaming activity data provided by online music sources.</description>
+    <language>en</language>
+    <item>
+  <title>1: Humble.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Humble.</chart_item_title>
+  <rank_this_week>1</rank_this_week>
+  <rank_last_week>3</rank_last_week>
+  <description>Humble. by Kendrick Lamar ranks #1</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>2: Shape Of You</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ed Sheeran</artist>
+  <chart_item_title>Shape Of You</chart_item_title>
+  <rank_this_week>2</rank_this_week>
+  <rank_last_week>1</rank_last_week>
+  <description>Shape Of You by Ed Sheeran ranks #2</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>3: That&#039;s What I Like</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Bruno Mars</artist>
+  <chart_item_title>That&#039;s What I Like</chart_item_title>
+  <rank_this_week>3</rank_this_week>
+  <rank_last_week>2</rank_last_week>
+  <description>That&#039;s What I Like by Bruno Mars ranks #3</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>4: DNA.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>DNA.</chart_item_title>
+  <rank_this_week>4</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>DNA. by Kendrick Lamar ranks #4</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>5: Mask Off</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Future</artist>
+  <chart_item_title>Mask Off</chart_item_title>
+  <rank_this_week>5</rank_this_week>
+  <rank_last_week>7</rank_last_week>
+  <description>Mask Off by Future ranks #5</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>6: iSpy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>KYLE Featuring Lil Yachty</artist>
+  <chart_item_title>iSpy</chart_item_title>
+  <rank_this_week>6</rank_this_week>
+  <rank_last_week>6</rank_last_week>
+  <description>iSpy by KYLE Featuring Lil Yachty ranks #6</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>7: Stay</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Zedd &amp; Alessia Cara</artist>
+  <chart_item_title>Stay</chart_item_title>
+  <rank_this_week>7</rank_this_week>
+  <rank_last_week>14</rank_last_week>
+  <description>Stay by Zedd &amp; Alessia Cara ranks #7</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>8: Something Just Like This</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>The Chainsmokers &amp; Coldplay</artist>
+  <chart_item_title>Something Just Like This</chart_item_title>
+  <rank_this_week>8</rank_this_week>
+  <rank_last_week>5</rank_last_week>
+  <description>Something Just Like This by The Chainsmokers &amp; Coldplay ranks #8</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>9: Despacito</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Luis Fonsi &amp; Daddy Yankee Featuring Justin Bieber</artist>
+  <chart_item_title>Despacito</chart_item_title>
+  <rank_this_week>9</rank_this_week>
+  <rank_last_week>48</rank_last_week>
+  <description>Despacito by Luis Fonsi &amp; Daddy Yankee Featuring Justin Bieber ranks #9</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>10: XO TOUR Llif3</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lil Uzi Vert</artist>
+  <chart_item_title>XO TOUR Llif3</chart_item_title>
+  <rank_this_week>10</rank_this_week>
+  <rank_last_week>8</rank_last_week>
+  <description>XO TOUR Llif3 by Lil Uzi Vert ranks #10</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>11: Body Like A Back Road</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Sam Hunt</artist>
+  <chart_item_title>Body Like A Back Road</chart_item_title>
+  <rank_this_week>11</rank_this_week>
+  <rank_last_week>9</rank_last_week>
+  <description>Body Like A Back Road by Sam Hunt ranks #11</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>12: Issues</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Julia Michaels</artist>
+  <chart_item_title>Issues</chart_item_title>
+  <rank_this_week>12</rank_this_week>
+  <rank_last_week>12</rank_last_week>
+  <description>Issues by Julia Michaels ranks #12</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>13: It Ain&#039;t Me</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kygo x Selena Gomez</artist>
+  <chart_item_title>It Ain&#039;t Me</chart_item_title>
+  <rank_this_week>13</rank_this_week>
+  <rank_last_week>11</rank_last_week>
+  <description>It Ain&#039;t Me by Kygo x Selena Gomez ranks #13</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>14: Loyalty.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar Featuring Rihanna</artist>
+  <chart_item_title>Loyalty.</chart_item_title>
+  <rank_this_week>14</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Loyalty. by Kendrick Lamar Featuring Rihanna ranks #14</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>15: Congratulations</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Post Malone Featuring Quavo</artist>
+  <chart_item_title>Congratulations</chart_item_title>
+  <rank_this_week>15</rank_this_week>
+  <rank_last_week>19</rank_last_week>
+  <description>Congratulations by Post Malone Featuring Quavo ranks #15</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>16: Element.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Element.</chart_item_title>
+  <rank_this_week>16</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Element. by Kendrick Lamar ranks #16</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>17: Say You Won&#039;t Let Go</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>James Arthur</artist>
+  <chart_item_title>Say You Won&#039;t Let Go</chart_item_title>
+  <rank_this_week>17</rank_this_week>
+  <rank_last_week>16</rank_last_week>
+  <description>Say You Won&#039;t Let Go by James Arthur ranks #17</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>18: Love.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar Featuring Zacari</artist>
+  <chart_item_title>Love.</chart_item_title>
+  <rank_this_week>18</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Love. by Kendrick Lamar Featuring Zacari ranks #18</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>19: Paris</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>The Chainsmokers</artist>
+  <chart_item_title>Paris</chart_item_title>
+  <rank_this_week>19</rank_this_week>
+  <rank_last_week>10</rank_last_week>
+  <description>Paris by The Chainsmokers ranks #19</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>20: Rockabye</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Clean Bandit Featuring Sean Paul &amp; Anne-Marie</artist>
+  <chart_item_title>Rockabye</chart_item_title>
+  <rank_this_week>20</rank_this_week>
+  <rank_last_week>13</rank_last_week>
+  <description>Rockabye by Clean Bandit Featuring Sean Paul &amp; Anne-Marie ranks #20</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>21: Tunnel Vision</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kodak Black</artist>
+  <chart_item_title>Tunnel Vision</chart_item_title>
+  <rank_this_week>21</rank_this_week>
+  <rank_last_week>15</rank_last_week>
+  <description>Tunnel Vision by Kodak Black ranks #21</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>22: Sign Of The Times</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Harry Styles</artist>
+  <chart_item_title>Sign Of The Times</chart_item_title>
+  <rank_this_week>22</rank_this_week>
+  <rank_last_week>4</rank_last_week>
+  <description>Sign Of The Times by Harry Styles ranks #22</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>23: Cold</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Maroon 5 Featuring Future</artist>
+  <chart_item_title>Cold</chart_item_title>
+  <rank_this_week>23</rank_this_week>
+  <rank_last_week>21</rank_last_week>
+  <description>Cold by Maroon 5 Featuring Future ranks #23</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>24: I Feel It Coming</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>The Weeknd Featuring Daft Punk</artist>
+  <chart_item_title>I Feel It Coming</chart_item_title>
+  <rank_this_week>24</rank_this_week>
+  <rank_last_week>17</rank_last_week>
+  <description>I Feel It Coming by The Weeknd Featuring Daft Punk ranks #24</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>25: Location</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Khalid</artist>
+  <chart_item_title>Location</chart_item_title>
+  <rank_this_week>25</rank_this_week>
+  <rank_last_week>20</rank_last_week>
+  <description>Location by Khalid ranks #25</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>26: Bad And Boujee</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Migos Featuring Lil Uzi Vert</artist>
+  <chart_item_title>Bad And Boujee</chart_item_title>
+  <rank_this_week>26</rank_this_week>
+  <rank_last_week>18</rank_last_week>
+  <description>Bad And Boujee by Migos Featuring Lil Uzi Vert ranks #26</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>27: Passionfruit</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Drake</artist>
+  <chart_item_title>Passionfruit</chart_item_title>
+  <rank_this_week>27</rank_this_week>
+  <rank_last_week>22</rank_last_week>
+  <description>Passionfruit by Drake ranks #27</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>28: Closer</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>The Chainsmokers Featuring Halsey</artist>
+  <chart_item_title>Closer</chart_item_title>
+  <rank_this_week>28</rank_this_week>
+  <rank_last_week>23</rank_last_week>
+  <description>Closer by The Chainsmokers Featuring Halsey ranks #28</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>29: T-Shirt</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Migos</artist>
+  <chart_item_title>T-Shirt</chart_item_title>
+  <rank_this_week>29</rank_this_week>
+  <rank_last_week>28</rank_last_week>
+  <description>T-Shirt by Migos ranks #29</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>30: Bounce Back</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Big Sean</artist>
+  <chart_item_title>Bounce Back</chart_item_title>
+  <rank_this_week>30</rank_this_week>
+  <rank_last_week>25</rank_last_week>
+  <description>Bounce Back by Big Sean ranks #30</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>31: Love On The Brain</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Rihanna</artist>
+  <chart_item_title>Love On The Brain</chart_item_title>
+  <rank_this_week>31</rank_this_week>
+  <rank_last_week>24</rank_last_week>
+  <description>Love On The Brain by Rihanna ranks #31</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>32: Yah.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Yah.</chart_item_title>
+  <rank_this_week>32</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Yah. by Kendrick Lamar ranks #32</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>33: XXX.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar Featuring U2</artist>
+  <chart_item_title>XXX.</chart_item_title>
+  <rank_this_week>33</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>XXX. by Kendrick Lamar Featuring U2 ranks #33</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>34: Swang</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Rae Sremmurd</artist>
+  <chart_item_title>Swang</chart_item_title>
+  <rank_this_week>34</rank_this_week>
+  <rank_last_week>29</rank_last_week>
+  <description>Swang by Rae Sremmurd ranks #34</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>35: Feel.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Feel.</chart_item_title>
+  <rank_this_week>35</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Feel. by Kendrick Lamar ranks #35</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>36: I Don&#039;t Wanna Live Forever (Fifty Shades Darker)</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Zayn / Taylor Swift</artist>
+  <chart_item_title>I Don&#039;t Wanna Live Forever (Fifty Shades Darker)</chart_item_title>
+  <rank_this_week>36</rank_this_week>
+  <rank_last_week>26</rank_last_week>
+  <description>I Don&#039;t Wanna Live Forever (Fifty Shades Darker) by Zayn / Taylor Swift ranks #36</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>37: Pride.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Pride.</chart_item_title>
+  <rank_this_week>37</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Pride. by Kendrick Lamar ranks #37</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>38: Chained To The Rhythm</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Katy Perry Featuring Skip Marley</artist>
+  <chart_item_title>Chained To The Rhythm</chart_item_title>
+  <rank_this_week>38</rank_this_week>
+  <rank_last_week>27</rank_last_week>
+  <description>Chained To The Rhythm by Katy Perry Featuring Skip Marley ranks #38</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>39: The Cure</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lady Gaga</artist>
+  <chart_item_title>The Cure</chart_item_title>
+  <rank_this_week>39</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>The Cure by Lady Gaga ranks #39</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>40: Rolex</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ayo &amp; Teo</artist>
+  <chart_item_title>Rolex</chart_item_title>
+  <rank_this_week>40</rank_this_week>
+  <rank_last_week>32</rank_last_week>
+  <description>Rolex by Ayo &amp; Teo ranks #40</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>41: 24K Magic</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Bruno Mars</artist>
+  <chart_item_title>24K Magic</chart_item_title>
+  <rank_this_week>41</rank_this_week>
+  <rank_last_week>30</rank_last_week>
+  <description>24K Magic by Bruno Mars ranks #41</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>42: Lust.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Lust.</chart_item_title>
+  <rank_this_week>42</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Lust. by Kendrick Lamar ranks #42</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>43: Scars To Your Beautiful</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Alessia Cara</artist>
+  <chart_item_title>Scars To Your Beautiful</chart_item_title>
+  <rank_this_week>43</rank_this_week>
+  <rank_last_week>31</rank_last_week>
+  <description>Scars To Your Beautiful by Alessia Cara ranks #43</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>44: Slide</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Calvin Harris Featuring Frank Ocean &amp; Migos</artist>
+  <chart_item_title>Slide</chart_item_title>
+  <rank_this_week>44</rank_this_week>
+  <rank_last_week>36</rank_last_week>
+  <description>Slide by Calvin Harris Featuring Frank Ocean &amp; Migos ranks #44</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>45: In Case You Didn&#039;t Know</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Brett Young</artist>
+  <chart_item_title>In Case You Didn&#039;t Know</chart_item_title>
+  <rank_this_week>45</rank_this_week>
+  <rank_last_week>40</rank_last_week>
+  <description>In Case You Didn&#039;t Know by Brett Young ranks #45</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>46: Goosebumps</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Travis Scott</artist>
+  <chart_item_title>Goosebumps</chart_item_title>
+  <rank_this_week>46</rank_this_week>
+  <rank_last_week>43</rank_last_week>
+  <description>Goosebumps by Travis Scott ranks #46</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>47: Can&#039;t Stop The Feeling!</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Justin Timberlake</artist>
+  <chart_item_title>Can&#039;t Stop The Feeling!</chart_item_title>
+  <rank_this_week>47</rank_this_week>
+  <rank_last_week>33</rank_last_week>
+  <description>Can&#039;t Stop The Feeling! by Justin Timberlake ranks #47</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>48: Both</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Gucci Mane Featuring Drake</artist>
+  <chart_item_title>Both</chart_item_title>
+  <rank_this_week>48</rank_this_week>
+  <rank_last_week>44</rank_last_week>
+  <description>Both by Gucci Mane Featuring Drake ranks #48</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>49: Mercy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Shawn Mendes</artist>
+  <chart_item_title>Mercy</chart_item_title>
+  <rank_this_week>49</rank_this_week>
+  <rank_last_week>34</rank_last_week>
+  <description>Mercy by Shawn Mendes ranks #49</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>50: Fear.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Fear.</chart_item_title>
+  <rank_this_week>50</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Fear. by Kendrick Lamar ranks #50</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>51: Believer</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Imagine Dragons</artist>
+  <chart_item_title>Believer</chart_item_title>
+  <rank_this_week>51</rank_this_week>
+  <rank_last_week>47</rank_last_week>
+  <description>Believer by Imagine Dragons ranks #51</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>52: Look At Me!</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>XXXTENTACION</artist>
+  <chart_item_title>Look At Me!</chart_item_title>
+  <rank_this_week>52</rank_this_week>
+  <rank_last_week>37</rank_last_week>
+  <description>Look At Me! by XXXTENTACION ranks #52</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>53: Swalla</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jason Derulo Featuring Nicki Minaj &amp; Ty Dolla $ign</artist>
+  <chart_item_title>Swalla</chart_item_title>
+  <rank_this_week>53</rank_this_week>
+  <rank_last_week>42</rank_last_week>
+  <description>Swalla by Jason Derulo Featuring Nicki Minaj &amp; Ty Dolla $ign ranks #53</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>54: Blood.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Blood.</chart_item_title>
+  <rank_this_week>54</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Blood. by Kendrick Lamar ranks #54</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>55: Hurricane</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Luke Combs</artist>
+  <chart_item_title>Hurricane</chart_item_title>
+  <rank_this_week>55</rank_this_week>
+  <rank_last_week>51</rank_last_week>
+  <description>Hurricane by Luke Combs ranks #55</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>56: Redbone</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Childish Gambino</artist>
+  <chart_item_title>Redbone</chart_item_title>
+  <rank_this_week>56</rank_this_week>
+  <rank_last_week>49</rank_last_week>
+  <description>Redbone by Childish Gambino ranks #56</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>57: Down</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Marian Hill</artist>
+  <chart_item_title>Down</chart_item_title>
+  <rank_this_week>57</rank_this_week>
+  <rank_last_week>35</rank_last_week>
+  <description>Down by Marian Hill ranks #57</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>58: God.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>God.</chart_item_title>
+  <rank_this_week>58</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>God. by Kendrick Lamar ranks #58</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>59: Unforgettable</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>French Montana Featuring Swae Lee</artist>
+  <chart_item_title>Unforgettable</chart_item_title>
+  <rank_this_week>59</rank_this_week>
+  <rank_last_week>74</rank_last_week>
+  <description>Unforgettable by French Montana Featuring Swae Lee ranks #59</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>60: Portland</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Drake Featuring Quavo &amp; Travis Scott</artist>
+  <chart_item_title>Portland</chart_item_title>
+  <rank_this_week>60</rank_this_week>
+  <rank_last_week>41</rank_last_week>
+  <description>Portland by Drake Featuring Quavo &amp; Travis Scott ranks #60</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>61: Castle On The Hill</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Ed Sheeran</artist>
+  <chart_item_title>Castle On The Hill</chart_item_title>
+  <rank_this_week>61</rank_this_week>
+  <rank_last_week>57</rank_last_week>
+  <description>Castle On The Hill by Ed Sheeran ranks #61</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>62: Dirt On My Boots</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jon Pardi</artist>
+  <chart_item_title>Dirt On My Boots</chart_item_title>
+  <rank_this_week>62</rank_this_week>
+  <rank_last_week>45</rank_last_week>
+  <description>Dirt On My Boots by Jon Pardi ranks #62</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>63: Duckworth.</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kendrick Lamar</artist>
+  <chart_item_title>Duckworth.</chart_item_title>
+  <rank_this_week>63</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Duckworth. by Kendrick Lamar ranks #63</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>64: Hometown Girl</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Josh Turner</artist>
+  <chart_item_title>Hometown Girl</chart_item_title>
+  <rank_this_week>64</rank_this_week>
+  <rank_last_week>56</rank_last_week>
+  <description>Hometown Girl by Josh Turner ranks #64</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>65: How Far I&#039;ll Go</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Auli&#039;i Cravalho</artist>
+  <chart_item_title>How Far I&#039;ll Go</chart_item_title>
+  <rank_this_week>65</rank_this_week>
+  <rank_last_week>60</rank_last_week>
+  <description>How Far I&#039;ll Go by Auli&#039;i Cravalho ranks #65</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>66: Now Or Never</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Halsey</artist>
+  <chart_item_title>Now Or Never</chart_item_title>
+  <rank_this_week>66</rank_this_week>
+  <rank_last_week>50</rank_last_week>
+  <description>Now Or Never by Halsey ranks #66</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>67: The Fighter</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Keith Urban Featuring Carrie Underwood</artist>
+  <chart_item_title>The Fighter</chart_item_title>
+  <rank_this_week>67</rank_this_week>
+  <rank_last_week>53</rank_last_week>
+  <description>The Fighter by Keith Urban Featuring Carrie Underwood ranks #67</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>68: Heavy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Linkin Park Featuring Kiiara</artist>
+  <chart_item_title>Heavy</chart_item_title>
+  <rank_this_week>68</rank_this_week>
+  <rank_last_week>58</rank_last_week>
+  <description>Heavy by Linkin Park Featuring Kiiara ranks #68</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>69: Any Ol&#039; Barstool</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Jason Aldean</artist>
+  <chart_item_title>Any Ol&#039; Barstool</chart_item_title>
+  <rank_this_week>69</rank_this_week>
+  <rank_last_week>52</rank_last_week>
+  <description>Any Ol&#039; Barstool by Jason Aldean ranks #69</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>70: Shining</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>DJ Khaled Featuring Beyonce &amp; JAY Z</artist>
+  <chart_item_title>Shining</chart_item_title>
+  <rank_this_week>70</rank_this_week>
+  <rank_last_week>59</rank_last_week>
+  <description>Shining by DJ Khaled Featuring Beyonce &amp; JAY Z ranks #70</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>71: Party</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Chris Brown Featuring Usher &amp; Gucci Mane</artist>
+  <chart_item_title>Party</chart_item_title>
+  <rank_this_week>71</rank_this_week>
+  <rank_last_week>55</rank_last_week>
+  <description>Party by Chris Brown Featuring Usher &amp; Gucci Mane ranks #71</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>72: Drowning</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>A Boogie Wit da Hoodie Featuring Kodak Black</artist>
+  <chart_item_title>Drowning</chart_item_title>
+  <rank_this_week>72</rank_this_week>
+  <rank_last_week>75</rank_last_week>
+  <description>Drowning by A Boogie Wit da Hoodie Featuring Kodak Black ranks #72</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>73: Cake</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Flo Rida &amp; 99 Percent</artist>
+  <chart_item_title>Cake</chart_item_title>
+  <rank_this_week>73</rank_this_week>
+  <rank_last_week>89</rank_last_week>
+  <description>Cake by Flo Rida &amp; 99 Percent ranks #73</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>74: Green Light</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lorde</artist>
+  <chart_item_title>Green Light</chart_item_title>
+  <rank_this_week>74</rank_this_week>
+  <rank_last_week>54</rank_last_week>
+  <description>Green Light by Lorde ranks #74</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>75: Black</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Dierks Bentley</artist>
+  <chart_item_title>Black</chart_item_title>
+  <rank_this_week>75</rank_this_week>
+  <rank_last_week>61</rank_last_week>
+  <description>Black by Dierks Bentley ranks #75</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>76: Good Life</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>G-Eazy &amp; Kehlani</artist>
+  <chart_item_title>Good Life</chart_item_title>
+  <rank_this_week>76</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Good Life by G-Eazy &amp; Kehlani ranks #76</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>77: The Weekend</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Brantley Gilbert</artist>
+  <chart_item_title>The Weekend</chart_item_title>
+  <rank_this_week>77</rank_this_week>
+  <rank_last_week>64</rank_last_week>
+  <description>The Weekend by Brantley Gilbert ranks #77</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>78: Peek A Boo</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lil Yachty Featuring Migos</artist>
+  <chart_item_title>Peek A Boo</chart_item_title>
+  <rank_this_week>78</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Peek A Boo by Lil Yachty Featuring Migos ranks #78</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>79: Losin Control</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Russ</artist>
+  <chart_item_title>Losin Control</chart_item_title>
+  <rank_this_week>79</rank_this_week>
+  <rank_last_week>63</rank_last_week>
+  <description>Losin Control by Russ ranks #79</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>80: No Frauds</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Nicki Minaj, Drake &amp; Lil Wayne</artist>
+  <chart_item_title>No Frauds</chart_item_title>
+  <rank_this_week>80</rank_this_week>
+  <rank_last_week>87</rank_last_week>
+  <description>No Frauds by Nicki Minaj, Drake &amp; Lil Wayne ranks #80</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>81: Yeah Boy</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Kelsea Ballerini</artist>
+  <chart_item_title>Yeah Boy</chart_item_title>
+  <rank_this_week>81</rank_this_week>
+  <rank_last_week>73</rank_last_week>
+  <description>Yeah Boy by Kelsea Ballerini ranks #81</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>82: God, Your Mama, And Me</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Florida Georgia Line Featuring Backstreet Boys</artist>
+  <chart_item_title>God, Your Mama, And Me</chart_item_title>
+  <rank_this_week>82</rank_this_week>
+  <rank_last_week>68</rank_last_week>
+  <description>God, Your Mama, And Me by Florida Georgia Line Featuring Backstreet Boys ranks #82</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>83: Call On Me</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Starley</artist>
+  <chart_item_title>Call On Me</chart_item_title>
+  <rank_this_week>83</rank_this_week>
+  <rank_last_week>65</rank_last_week>
+  <description>Call On Me by Starley ranks #83</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>84: Moves</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Big Sean</artist>
+  <chart_item_title>Moves</chart_item_title>
+  <rank_this_week>84</rank_this_week>
+  <rank_last_week>67</rank_last_week>
+  <description>Moves by Big Sean ranks #84</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>85: Fast</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Luke Bryan</artist>
+  <chart_item_title>Fast</chart_item_title>
+  <rank_this_week>85</rank_this_week>
+  <rank_last_week>66</rank_last_week>
+  <description>Fast by Luke Bryan ranks #85</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>86: First Day Out</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Tee Grizzley</artist>
+  <chart_item_title>First Day Out</chart_item_title>
+  <rank_this_week>86</rank_this_week>
+  <rank_last_week>76</rank_last_week>
+  <description>First Day Out by Tee Grizzley ranks #86</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>87: Black Spiderman</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Logic Featuring Damian Lemar Hudson</artist>
+  <chart_item_title>Black Spiderman</chart_item_title>
+  <rank_this_week>87</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Black Spiderman by Logic Featuring Damian Lemar Hudson ranks #87</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>88: Selfish</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Future Featuring Rihanna</artist>
+  <chart_item_title>Selfish</chart_item_title>
+  <rank_this_week>88</rank_this_week>
+  <rank_last_week>69</rank_last_week>
+  <description>Selfish by Future Featuring Rihanna ranks #88</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>89: Deja Vu</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>J. Cole</artist>
+  <chart_item_title>Deja Vu</chart_item_title>
+  <rank_this_week>89</rank_this_week>
+  <rank_last_week>71</rank_last_week>
+  <description>Deja Vu by J. Cole ranks #89</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>90: Everyday We Lit</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>YFN Lucci Featuring PnB Rock</artist>
+  <chart_item_title>Everyday We Lit</chart_item_title>
+  <rank_this_week>90</rank_this_week>
+  <rank_last_week>79</rank_last_week>
+  <description>Everyday We Lit by YFN Lucci Featuring PnB Rock ranks #90</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>91: Scared To Be Lonely</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Martin Garrix &amp; Dua Lipa</artist>
+  <chart_item_title>Scared To Be Lonely</chart_item_title>
+  <rank_this_week>91</rank_this_week>
+  <rank_last_week>80</rank_last_week>
+  <description>Scared To Be Lonely by Martin Garrix &amp; Dua Lipa ranks #91</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>92: Gyalchester</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Drake</artist>
+  <chart_item_title>Gyalchester</chart_item_title>
+  <rank_this_week>92</rank_this_week>
+  <rank_last_week>62</rank_last_week>
+  <description>Gyalchester by Drake ranks #92</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>93: Broken Halos</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Chris Stapleton</artist>
+  <chart_item_title>Broken Halos</chart_item_title>
+  <rank_this_week>93</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>Broken Halos by Chris Stapleton ranks #93</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>94: Weak</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>AJR</artist>
+  <chart_item_title>Weak</chart_item_title>
+  <rank_this_week>94</rank_this_week>
+  <rank_last_week>97</rank_last_week>
+  <description>Weak by AJR ranks #94</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>95: How Not To</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Dan + Shay</artist>
+  <chart_item_title>How Not To</chart_item_title>
+  <rank_this_week>95</rank_this_week>
+  <rank_last_week>86</rank_last_week>
+  <description>How Not To by Dan + Shay ranks #95</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>96: Good Drank</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>2 Chainz x Gucci Mane x Quavo</artist>
+  <chart_item_title>Good Drank</chart_item_title>
+  <rank_this_week>96</rank_this_week>
+  <rank_last_week>82</rank_last_week>
+  <description>Good Drank by 2 Chainz x Gucci Mane x Quavo ranks #96</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>97: You Look Good</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lady Antebellum</artist>
+  <chart_item_title>You Look Good</chart_item_title>
+  <rank_this_week>97</rank_this_week>
+  <rank_last_week>85</rank_last_week>
+  <description>You Look Good by Lady Antebellum ranks #97</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>98: At My Best</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Machine Gun Kelly Featuring Hailee Steinfeld</artist>
+  <chart_item_title>At My Best</chart_item_title>
+  <rank_this_week>98</rank_this_week>
+  <rank_last_week>94</rank_last_week>
+  <description>At My Best by Machine Gun Kelly Featuring Hailee Steinfeld ranks #98</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>99: The Night We Met</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Lord Huron</artist>
+  <chart_item_title>The Night We Met</chart_item_title>
+  <rank_this_week>99</rank_this_week>
+  <rank_last_week>0</rank_last_week>
+  <description>The Night We Met by Lord Huron ranks #99</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+<item>
+  <title>100: Craving You</title>
+  <link>http://www.billboard.com/charts/hot-100</link>
+  <artist>Thomas Rhett Featuring Maren Morris</artist>
+  <chart_item_title>Craving You</chart_item_title>
+  <rank_this_week>100</rank_this_week>
+  <rank_last_week>81</rank_last_week>
+  <description>Craving You by Thomas Rhett Featuring Maren Morris ranks #100</description>
+  <category>The Hot 100</category>
+  <pubDate>Sat, 06 May 2017 00:00:00 -0400</pubDate>
+  <guid isPermaLink="true">http://www.billboard.com/charts/hot-100</guid>
+ </item>
+  </channel>
+</rss>
